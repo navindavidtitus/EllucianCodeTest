@@ -3,7 +3,7 @@ Code Repository-Ellucian Code Test(Task1 &amp; Task2)
 
 The code for Task 1 and Task 2 are in same repository.
 
-Task1 is available in following link as a package in the project: [EllucianCodeTest/src/main/java/com/ellucian/] (https://github.com/navindavidtitus/EllucianCodeTest/tree/master/src/main/java/com/ellucian)under the package "task1", which has the main class, Pojo class and Comparator class.
+Task1 is available in following link as a package in the project: [EllucianCodeTest/src/main/java/com/ellucian/] https://github.com/navindavidtitus/EllucianCodeTest/tree/master/src/main/java/com/ellucian under the package "task1", which has the main class, Pojo class and Comparator class.
 Running the "PlaySortWithScore.java" as a java application will execute the program.
 
 Task2 is has two packages: controller and service
